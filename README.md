@@ -1,45 +1,46 @@
-# Hi, I'm Mohamed Baqur 👋
+# Mohamed Baqur
 
-Electrical Engineering graduate from Al-Mustansiriya University with a strong interest in Backend Development, Artificial Intelligence Integration, and Mobile Application Development.
+Electrical Engineering Graduate passionate about Backend Development, Mobile Applications, and AI Integration.
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔹 Backend Developer using Node.js
-- 🔹 Flutter Mobile Developer
-- 🔹 Experienced with Firebase Realtime Database & Cloud Firestore
-- 🔹 AI Integration using Gemini API
-- 🔹 Interested in building intelligent real-world software systems
+I am an Electrical Engineering graduate from Al-Mustansiriya University with practical experience in designing and developing software systems. My primary interests include backend development, cloud technologies, AI integration, and building real-world intelligent applications.
 
-## 🚀 Featured Project
+## Technical Skills
 
-### AI-Based Child Health & Environmental Monitoring System
-
-An AI-powered graduation project developed for the NURAI Innovation Competition.
-
-**Key Features**
-- Real-time monitoring of IoT sensor data
-- Backend processing using Node.js
-- Flutter mobile application
-- Firebase Realtime Database & Cloud Firestore
-- AI-powered health analysis using Gemini API
-- Rule-based emergency detection
-- Cloud deployment using Railway
-
-## 🛠 Tech Stack
-
-- Flutter
-- Dart
-- JavaScript
-- Node.js
-- Firebase
-- Cloud Firestore
+- Backend Development (Node.js)
+- Flutter & Dart
 - Firebase Realtime Database
-- Gemini API
-- Git
-- GitHub
-- Railway
+- Cloud Firestore
+- JavaScript
+- Git & GitHub
+- Gemini API Integration
+- Railway Cloud Deployment
 
-## 📫 Contact
+## Featured Project
 
-- LinkedIn: https://www.linkedin.com/in/mohamed-baqur-adil-ghaly-5698a541b
+### AI-Based Child Health and Environmental Monitoring System
+
+Graduation project developed for the NURAI Innovation Competition.
+
+Responsibilities:
+- Developed the complete Flutter mobile application.
+- Designed and implemented the complete Node.js backend.
+- Integrated Firebase Realtime Database and Cloud Firestore.
+- Implemented AI-powered analysis using Gemini API.
+- Deployed backend services on Railway.
+- Designed real-time data processing and system logic.
+
+> Note: My contribution focused entirely on software development. Hardware design and implementation were completed by other team members.
+
+## Currently Learning
+
+- Backend Architecture
+- Software Engineering
+- AI Systems
+- Cloud Computing
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/mohamed-baqur
 - Email: 016745m@gmail.com
