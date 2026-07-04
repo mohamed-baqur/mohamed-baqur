@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Mohamed Baqur 👋
 
-<!--
-**mohamed-baqur/mohamed-baqur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering graduate from Al-Mustansiriya University with a strong interest in Backend Development, Artificial Intelligence Integration, and Mobile Application Development.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔹 Backend Developer using Node.js
+- 🔹 Flutter Mobile Developer
+- 🔹 Experienced with Firebase Realtime Database & Cloud Firestore
+- 🔹 AI Integration using Gemini API
+- 🔹 Interested in building intelligent real-world software systems
+
+## 🚀 Featured Project
+
+### AI-Based Child Health & Environmental Monitoring System
+
+An AI-powered graduation project developed for the NURAI Innovation Competition.
+
+**Key Features**
+- Real-time monitoring of IoT sensor data
+- Backend processing using Node.js
+- Flutter mobile application
+- Firebase Realtime Database & Cloud Firestore
+- AI-powered health analysis using Gemini API
+- Rule-based emergency detection
+- Cloud deployment using Railway
+
+## 🛠 Tech Stack
+
+- Flutter
+- Dart
+- JavaScript
+- Node.js
+- Firebase
+- Cloud Firestore
+- Firebase Realtime Database
+- Gemini API
+- Git
+- GitHub
+- Railway
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/mohamed-baqur-adil-ghaly-5698a541b
+- Email: 016745m@gmail.com
