@@ -1,46 +1,52 @@
-# Mohamed Baqur
+# Hi, I'm Mohamed Baqur 👋
 
-Electrical Engineering Graduate passionate about Backend Development, Mobile Applications, and AI Integration.
+Electrical Engineering Graduate with a strong interest in Backend Development, Mobile Application Development, and Artificial Intelligence Integration.
 
-## About Me
+## 👨‍💻 About Me
 
-I am an Electrical Engineering graduate from Al-Mustansiriya University with practical experience in designing and developing software systems. My primary interests include backend development, cloud technologies, AI integration, and building real-world intelligent applications.
+I enjoy building software systems that solve real-world problems through cloud technologies, backend services, and AI-powered solutions.
 
-## Technical Skills
+My primary focus is designing reliable backend systems, integrating cloud platforms, and developing mobile applications that work together as complete solutions.
 
-- Backend Development (Node.js)
-- Flutter & Dart
-- Firebase Realtime Database
-- Cloud Firestore
-- JavaScript
-- Git & GitHub
-- Gemini API Integration
-- Railway Cloud Deployment
+## 🚀 Featured Project
 
-## Featured Project
-
-### AI-Based Child Health and Environmental Monitoring System
+### AI-Based Child Health & Environmental Monitoring System
 
 Graduation project developed for the NURAI Innovation Competition.
 
-Responsibilities:
+### My Responsibilities
+
 - Developed the complete Flutter mobile application.
 - Designed and implemented the complete Node.js backend.
 - Integrated Firebase Realtime Database and Cloud Firestore.
 - Implemented AI-powered analysis using Gemini API.
-- Deployed backend services on Railway.
-- Designed real-time data processing and system logic.
+- Designed real-time data processing logic.
+- Deployed backend services using Railway.
 
-> Note: My contribution focused entirely on software development. Hardware design and implementation were completed by other team members.
+> My contribution focused entirely on software development. Hardware design and implementation were completed by other team members.
 
-## Currently Learning
+## 🛠 Technologies
+
+- Flutter
+- Dart
+- JavaScript
+- Node.js
+- Firebase
+- Firebase Realtime Database
+- Cloud Firestore
+- Gemini API
+- Railway
+- Git
+- GitHub
+
+## 🌱 Currently Learning
 
 - Backend Architecture
-- Software Engineering
-- AI Systems
 - Cloud Computing
+- Software Engineering
+- AI Systems Integration
 
-## Contact
+## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/mohamed-baqur
 - Email: 016745m@gmail.com
